@@ -1,6 +1,7 @@
 // Start the scheduler onload
 window.onload = function() {
     var scheduler = new GmailScheduler();
+    console.log(scheduler);
 }
 
 function GmailScheduler() {
