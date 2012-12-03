@@ -11,5 +11,10 @@
   "web_accessible_resources": [
     "icon.png"
   ],
+  "icons": {
+    "16" : "icon.png",
+    "48" : "icon.png",
+    "128" : "icon.png"
+  },
   "manifest_version": 2
 }
