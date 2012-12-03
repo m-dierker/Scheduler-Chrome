@@ -8,5 +8,8 @@
       "js": ["gmail.js"]
     }
   ],
+  "web_accessible_resources": [
+    "icon.png"
+  ],
   "manifest_version": 2
 }
